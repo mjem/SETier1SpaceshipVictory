@@ -1,24 +1,8 @@
 data:extend({
-	  {
-	   -- make the earliy research satellite launches cheaper
-        type = "bool-setting",
-        name = "set1victory-cheaper-satellite-launches",
-        setting_type = "startup",
-        default_value = true,
-		order = 1
-	},
 	{
 	   -- to enable pylons, electric trains (mod), ion and plasma capsules earlier
         type = "bool-setting",
         name = "set1victory-earlier-lithium-sulfur-battery",
-        setting_type = "startup",
-        default_value = true,
-		order = 1
-	},
-	{
-	   -- reduce numbers of offworld plates needed so we spend less time building up production
-        type = "bool-setting",
-        name = "set1victory-potent-offworld-plates",
         setting_type = "startup",
         default_value = true,
 		order = 1
@@ -47,6 +31,42 @@ data:extend({
         default_value = true,
 		order = 1
 	},
+	{
+	   -- so we don't spend so long ramping up production
+	   -- - half the cost of heat shielding
+	   -- - double immersite crystal production
+        type = "bool-setting",
+        name = "set1victory-cheaper-stuff",
+        setting_type = "startup",
+        default_value = true,
+		order = 1
+	},
+	{
+	   -- enable deep space zone discovery with only tier 1 astro science
+	   -- (instead of tier 3)
+        type = "bool-setting",
+        name = "set1victory-earlier-deep-zone",
+        setting_type = "startup",
+        default_value = true,
+		order = 1
+	},
+	{
+	   -- enable the 4-science recipie for generating significant data at T1
+	   -- (instead of tier 2)
+        type = "bool-setting",
+        name = "set1victory-earlier-universal-simulation",
+        setting_type = "startup",
+        default_value = true,
+		order = 1
+	},
+	{
+	   -- much earlier and somewhat simpler naquium processing
+        type = "bool-setting",
+        name = "set1victory-earlier-cheaper-naquium",
+        setting_type = "startup",
+        default_value = true,
+		order = 1
+	}
 	-- {
 	   -- allow for spaceship victory without k2 victory
         -- type = "bool-setting",

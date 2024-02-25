@@ -16,6 +16,40 @@ However you won't need some of the more advanced techniques - arcosphere folding
 
 Tier 2, 3 and 4 sciences and above are still present and players can of course continue and obtain higher level techs and items.
 
+Reduce the space exploration mid-game process where there can be a lot of time spent setting up long production lines
+and long gaps between new and fun techs.
+
+Not needed for spaceship victory
+--------------------------------
+
+- Any science above T1
+- Material science
+- Globe juggling
+- Solar, asteroid, deep space satellite collection
+- Antimatter
+- High temperature steam
+
+All these are still available! But require developing T2 or above techs and are not required to get the spaceship victory.
+
+Techs that are needed or available
+-----------------------------------
+
+These techs are all available with only T1 science.
+
+All the outposts (bery, iridium, vulcanite, cryo, immersite, naquium).
+Spaceships with automation, rocket and ion drives and extra size
+Space trains and elevators
+Pylons
+Deep space T1
+Naquium processing
+Nexus and spaceship victory
+
+Simplification
+--------------
+
+- Naquium refining simplified
+- Ingredients reduced in quantity for several recipes - T1 science, rocket fuel
+
 Other mods
 ----------
 
